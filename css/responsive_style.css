@@ -1,0 +1,204 @@
+@media (max-width: 1208px) {
+  .navbar .contact {
+    margin-right: 150px;
+  }
+  .belowbanner {
+    background: white;
+    line-height: 12px;
+    font-size: 16px;
+  }
+  .belowbanner a :hover {
+    color: black;
+  }
+  .belowbanner .cb {
+    border-right: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+  }
+  .belowbanner .cba {
+    border-bottom: 1px solid lightgrey;
+  }
+  .belowbanner .cr {
+    background: orangered;
+    padding-top: 30px;
+    padding-right: 0px;
+    text-align: center;
+    height: 95px;
+    width: 180px;
+    color: white;
+    font-family: 900;
+  }
+  .belowbanner .popt {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    color: lightgray;
+  }
+}
+
+@media (max-width: 1038px) {
+  .navbar .contact {
+    margin-right: 100px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .belowbanner {
+    background: white;
+    line-height: 12px;
+    font-size: 18px;
+  }
+  .belowbanner a :hover {
+    color: black;
+  }
+  .belowbanner .cb {
+    border-right: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+  }
+  .belowbanner .cba {
+    border-bottom: 1px solid lightgrey;
+  }
+  .belowbanner .cr {
+    background: orangered;
+    padding-top: 30px;
+    padding-right: 0px;
+    text-align: center;
+    height: 95px;
+    width: 180px;
+    color: white;
+    font-family: 900;
+  }
+  .belowbanner .popt {
+    padding-bottom: 10px;
+    font-size: 16px;
+    color: lightgray;
+  }
+  .navbar .contact {
+    margin-right: 0px;
+  }
+}
+
+@media (max-width: 992px) {
+  .belowbanner {
+    background: white;
+    line-height: 12px;
+    font-size: 18px;
+  }
+  .belowbanner a :hover {
+    color: black;
+  }
+  .belowbanner .cb {
+    border-right: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+  }
+  .belowbanner .cba {
+    border-bottom: 1px solid lightgrey;
+  }
+  .belowbanner .cr {
+    background: orangered;
+    padding-top: 30px;
+    padding-right: 0px;
+    text-align: center;
+    height: 95px;
+    width: 180px;
+    color: white;
+    font-family: 900;
+  }
+  .belowbanner .popt {
+    padding-bottom: 10px;
+    font-size: 16px;
+    color: lightgray;
+  }
+  .products {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .products img {
+    margin-top: 30px;
+    width: 250px;
+    height: 150px;
+  }
+}
+
+@media (max-width: 926px) {
+  .belowbanner {
+    background: white;
+    line-height: 12px;
+    font-size: 14px;
+  }
+  .belowbanner a :hover {
+    color: black;
+  }
+  .belowbanner .cb {
+    border-right: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+  }
+  .belowbanner .cba {
+    border-bottom: 1px solid lightgrey;
+  }
+  .belowbanner .cr {
+    background: orangered;
+    padding-top: 30px;
+    padding-right: 0px;
+    text-align: center;
+    height: 95px;
+    width: 180px;
+    color: white;
+    font-family: 900;
+  }
+  .belowbanner .popt {
+    padding-bottom: 10px;
+    font-size: 12px;
+    color: lightgray;
+  }
+}
+
+@media (max-width: 767px) {
+  .belowbanner {
+    background: white;
+    line-height: 12px;
+    font-size: 18px;
+  }
+  .belowbanner a :hover {
+    color: black;
+  }
+  .belowbanner .cb {
+    border-right: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+  }
+  .belowbanner .cba {
+    border-bottom: 1px solid lightgrey;
+  }
+  .belowbanner .cr {
+    background: orangered;
+    padding-top: 30px;
+    padding-right: 0px;
+    text-align: center;
+    height: 95px;
+    width: 180px;
+    color: white;
+    font-family: 900;
+  }
+  .belowbanner .popt {
+    padding-bottom: 10px;
+    font-size: 16px;
+    color: lightgray;
+  }
+}
+
+@media (max-width: 690px) {
+  .products img {
+    margin-top: 30px;
+    width: 112%;
+    height: 40%;
+  }
+}
+
+@media (max-width: 575px) {
+  .products img {
+    margin-top: 30px;
+    width: 95%;
+    height: 40%;
+  }
+}
+/*# sourceMappingURL=responsive_style.css.map */
