@@ -233,6 +233,7 @@ p {
   position: fixed;
   top: 0px;
   left: 0px;
+  z-index: 999;
   -webkit-animation: aa 2s linear;
           animation: aa 2s linear;
 }
