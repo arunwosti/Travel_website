@@ -40,6 +40,10 @@ p{
           
         }
     }
+    animation: topanim 2s linear;
+    @keyframes topanim {
+        
+    }
 }
 .navbar{
     line-height: 20px;
@@ -250,10 +254,13 @@ p{
     width: 50px;
     height: 50px;
     position: fixed;
+    z-index: 999;
     top: 500px; right: 20px;
     border-radius: 50%;
     animation:aa 2s linear;
-
+    @keyframes aa {
+        
+    }
     
     a{
         text-decoration: none;

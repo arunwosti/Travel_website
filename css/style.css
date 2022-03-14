@@ -32,6 +32,8 @@ p {
   line-height: 20px;
   padding-top: 8px;
   background-color: #13213A;
+  -webkit-animation: topanim 2s linear;
+          animation: topanim 2s linear;
 }
 
 .top .phone {
@@ -46,7 +48,9 @@ p {
   color: red;
 }
 
-.navbar {
+@-webkit-keyframes topanim {}
+
+@keyframes topanim {}.navbar {
   line-height: 20px;
   padding: 0;
   margin: 0;
@@ -267,6 +271,7 @@ p {
   width: 50px;
   height: 50px;
   position: fixed;
+  z-index: 999;
   top: 500px;
   right: 20px;
   border-radius: 50%;
@@ -274,7 +279,7 @@ p {
           animation: aa 2s linear;
 }
 
-.arrow a {
+@keyframes aa {}.arrow a {
   text-decoration: none;
   color: #fff;
 }
